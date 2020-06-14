@@ -1,1 +1,3 @@
-# express_note-taker
+# Note taking App 
+
+--- Add stuffs here ---
