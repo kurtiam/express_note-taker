@@ -13,35 +13,10 @@
 
  Live Demo hosted at Heroku - https://protected-falls-99280.herokuapp.com/
  
-<details>
-<summary>Go to:</summary>
-
-* [Description](#description)
-* [Usage](#usage)
-* [Team Members](#team-members)
-* [Table of Contents](#Table-of-Contents)
-
-</details>
-
-</details>
-
 ##  Usage 
 - Clone the repo 
 - run: npm install
 - run: node app.js
-
-<details>
-<summary>Go to:</summary>
-
-
-* [Description](#description)
-* [Usage](#usage)
-* [Team Members](#team-members)
-* [Table of Contents](#Table-of-Contents)
-
-</details>
-
-<team>
 
 ## Team Members
 
